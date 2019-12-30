@@ -10,6 +10,6 @@ package asupekar_hw4.enums;
  * <li>{@link #PIGT}: Pigott Building</li>
  * </ul>
  * 
- * @author ohsh
+ * @author Aishwarya
  */
 public enum Building { ADMN, BANN, ENGR, LEML, PIGT }
